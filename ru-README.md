@@ -1,7 +1,7 @@
 ИНСТРУКЦИЯ ПО УСТАНОВКЕ:
 
 1. Перейдите по ссылке ниже: 
-[https://drive.google.com/file/d/1qMquXkduMftCahYxieL8MHh2HWgrFHQU/view?usp=sharing](https://drive.google.com/file/d/1qMquXkduMftCahYxieL8MHh2HWgrFHQU/view?usp=sharing)
+[https://drive.google.com/drive/folders/1-Y2iQLdlx_tdWiPIwtZIE2RSc1r9EFcO](https://drive.google.com/drive/folders/1-Y2iQLdlx_tdWiPIwtZIE2RSc1r9EFcO)
 
 2. Установите *NFS MW (2005) Files.zip*.
 
